@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab4\\Lab4.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B0A452-C511-45EC-98A4-B33DBB8077ED}|Lab4.2\\Lab4.2.vcxproj|E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab4\\Lab4.2\\Lab4.2\\Lab4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4B0A452-C511-45EC-98A4-B33DBB8077ED}|Lab4.2\\Lab4.2.vcxproj|solutionrelative:Lab4.2\\Lab4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab4.2.cpp",
+              "DocumentMoniker": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab4\\Lab4.2\\Lab4.2\\Lab4.2.cpp",
+              "RelativeDocumentMoniker": "Lab4.2\\Lab4.2.cpp",
+              "ToolTip": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab4\\Lab4.2\\Lab4.2\\Lab4.2.cpp",
+              "RelativeToolTip": "Lab4.2\\Lab4.2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T00:03:16.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

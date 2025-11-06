@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab5\\Lab5.3\\Bai23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E815F-D268-4562-8938-4C37EA69C2C9}|Bai23\\Bai23.vcxproj|E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab5\\Lab5.3\\Bai23\\Bai23\\Bai23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A37E815F-D268-4562-8938-4C37EA69C2C9}|Bai23\\Bai23.vcxproj|solutionrelative:Bai23\\Bai23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai23.cpp",
+              "DocumentMoniker": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab5\\Lab5.3\\Bai23\\Bai23\\Bai23.cpp",
+              "RelativeDocumentMoniker": "Bai23\\Bai23.cpp",
+              "ToolTip": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab5\\Lab5.3\\Bai23\\Bai23\\Bai23.cpp",
+              "RelativeToolTip": "Bai23\\Bai23.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T05:04:50.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

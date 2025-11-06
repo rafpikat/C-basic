@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab5\\Lab5.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB3B029-9A63-4560-814B-FD026C87BBEB}|Lab5.2\\Lab5.2.vcxproj|E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab5\\Lab5.2\\Lab5.2\\Lab5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEB3B029-9A63-4560-814B-FD026C87BBEB}|Lab5.2\\Lab5.2.vcxproj|solutionrelative:Lab5.2\\Lab5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab5.2.cpp",
+              "DocumentMoniker": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab5\\Lab5.2\\Lab5.2\\Lab5.2.cpp",
+              "RelativeDocumentMoniker": "Lab5.2\\Lab5.2.cpp",
+              "ToolTip": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab5\\Lab5.2\\Lab5.2\\Lab5.2.cpp",
+              "RelativeToolTip": "Lab5.2\\Lab5.2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T00:25:17.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

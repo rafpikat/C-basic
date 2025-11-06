@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab6\\Lab6.1\\Bai34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221844DA-E630-4281-85E9-C0C016A651AE}|Bai34\\Bai34.vcxproj|E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab6\\Lab6.1\\Bai34\\Bai34\\Bai34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{221844DA-E630-4281-85E9-C0C016A651AE}|Bai34\\Bai34.vcxproj|solutionrelative:Bai34\\Bai34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai34.cpp",
+              "DocumentMoniker": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab6\\Lab6.1\\Bai34\\Bai34\\Bai34.cpp",
+              "RelativeDocumentMoniker": "Bai34\\Bai34.cpp",
+              "ToolTip": "E:\\Automative\\code C\u002B\u002B\\CPP101\\Lab6\\Lab6.1\\Bai34\\Bai34\\Bai34.cpp",
+              "RelativeToolTip": "Bai34\\Bai34.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T16:05:44.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
