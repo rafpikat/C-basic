@@ -1,0 +1,19 @@
+# Ignore build files
+*.exe
+*.obj
+*.o
+*.out
+*.log
+*.tmp
+*.dll
+
+# IDE-specific
+.vscode/
+.idea/
+*.user
+*.suo
+*.vcxproj*
+*.ncb
+*.sdf
+*.opensdf
+*.db
